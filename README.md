@@ -2,7 +2,7 @@
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+https://public.tableau.com/profile/alexis.palmer#!/
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -82,8 +82,6 @@ Your final submission should include:
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
 ## Sharing Your Work
-
-https://public.tableau.com/profile/alexis.palmer#!/ 
 
 In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
 
